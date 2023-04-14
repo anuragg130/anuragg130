@@ -1,5 +1,5 @@
-## Introduction - AI ML DL Enthusiast
-Hello! My name is Anurag Gupta and I am an AI ML DL enthusiast. In the field of AI ML, I have experience in Image recognition and natural language processing. I have a passion for exploring the latest technologies and advancements in this field.
+## Introduction - 
+Hello! My name is Anurag Gupta and I am an AI enthusiast. In the field of AI ML, I have experience in Image recognition and natural language processing. I have a passion for exploring the latest technologies and advancements in this field.
 
 ## Skills
 
