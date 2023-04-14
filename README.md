@@ -7,11 +7,11 @@ I have a good understanding of programming concepts and I am proficient in the f
 - C
 - C++
 - Python
-- 
+
 I am also familiar with the following database management systems:
 - MySQL
 - SQL Server
-- 
+
 ## Experience
 In the field of AI ML, I have worked on various projects related to image recognition and natural language processing. I have experience in:
 
