@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @anuragg130
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... anuragu104@gmail.com
+## Introduction - AI ML DL Enthusiast
+Hello! My name is Anurag Gupta and I am an AI ML DL enthusiast. In the field of AI ML, I have experience in Image recognition and natural language processing. I have a passion for exploring the latest technologies and advancements in this field.
 
-<!---
-anuragg130/anuragg130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+I have a good understanding of programming concepts and I am proficient in the following programming languages:
+- C
+- C++
+- Python
+- 
+I am also familiar with the following database management systems:
+- MySQL
+- SQL Server
+- 
+## Experience
+In the field of AI ML, I have worked on various projects related to image recognition and natural language processing. I have experience in:
+
+- Image classification using Convolutional Neural Networks (CNN)
+- Object detection using Faster R-CNN
+- Sentiment analysis using Natural Language Processing (NLP)
+- Named Entity Recognition using Conditional Random Fields (CRF)
+
+## Conclusion
+In conclusion, I am an AI ML DL enthusiast with experience in image recognition and natural language processing. I am skilled in C, C++, Python programming languages, and MySQL & SQL Server database management systems. I am passionate about exploring new technologies and advancements in the field of AI ML and am always looking for new opportunities to learn and grow.
