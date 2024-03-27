@@ -15,6 +15,7 @@ I am also familiar with the following database management systems:
 ## Experience
 In the field of AI ML, I have worked on various projects related to image recognition and natural language processing. I have experience in:
 
+- Building and finetuning LLMs using high performance GPUs.
 - Image classification using Convolutional Neural Networks (CNN)
 - Object detection using Faster R-CNN
 - Sentiment analysis using Natural Language Processing (NLP)
